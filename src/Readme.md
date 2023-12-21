@@ -1,0 +1,1 @@
+Create shop home page using react components
