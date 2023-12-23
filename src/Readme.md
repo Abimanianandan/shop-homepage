@@ -1,1 +1,1 @@
-Create shop home page using react components
+Create shop home page using react components and useState hook.
