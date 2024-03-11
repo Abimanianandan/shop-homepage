@@ -1,0 +1,1 @@
+create a shop home page using state management
